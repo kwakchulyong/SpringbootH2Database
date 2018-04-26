@@ -31,7 +31,7 @@ src/main/java/com/test/member/MemberJdbcRepository.java
 4. Run as -> Spring boot App<br/>
 5. Open the Web browser : http://localhost:8080/
 
-<h2>Web page</h2>
+
 Index page
 ![title](/screenshoot/1.png)
 Validation Check
