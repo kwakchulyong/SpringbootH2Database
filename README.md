@@ -37,14 +37,14 @@ Index page
 Validation Check
 ![title](/screenshoot/2.png)
 
-• The username field accepts alpha-numeric values only
-• The username length is no less than 5 characters
-• The username is not already registered
+• The username field accepts alpha-numeric values only<br/>
+• The username length is no less than 5 characters<br/>
+• The username is not already registered<br/>
 • The password has a minimum length of 8 characters and contains at least 1 number, 1
-uppercase, and 1 lowercase character
-• The user gets feedback when the username or the password doesn't meet the criteria
-• Upon submission of a valid username and password, they are persisted to a database
-• The user gets feedback that he/she has been registered
+uppercase, and 1 lowercase character<br/>
+• The user gets feedback when the username or the password doesn't meet the criteria<br/>
+• Upon submission of a valid username and password, they are persisted to a database<br/>
+• The user gets feedback that he/she has been registered<br/>
 
 List page
 ![title](/screenshoot/3.png)
